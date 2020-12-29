@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/re-zen/static/css/main.3ea56572.chunk.css",
-    "main.js": "/re-zen/static/js/main.a72f535b.chunk.js",
-    "main.js.map": "/re-zen/static/js/main.a72f535b.chunk.js.map",
+    "main.js": "/re-zen/static/js/main.ea28a1e6.chunk.js",
+    "main.js.map": "/re-zen/static/js/main.ea28a1e6.chunk.js.map",
     "runtime-main.js": "/re-zen/static/js/runtime-main.64223b11.js",
     "runtime-main.js.map": "/re-zen/static/js/runtime-main.64223b11.js.map",
     "static/js/2.12e9e2cc.chunk.js": "/re-zen/static/js/2.12e9e2cc.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.64223b11.js",
     "static/js/2.12e9e2cc.chunk.js",
     "static/css/main.3ea56572.chunk.css",
-    "static/js/main.a72f535b.chunk.js"
+    "static/js/main.ea28a1e6.chunk.js"
   ]
 }
