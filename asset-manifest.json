@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/re-zen/static/css/main.3ea56572.chunk.css",
+    "main.js": "/re-zen/static/js/main.de8accae.chunk.js",
+    "main.js.map": "/re-zen/static/js/main.de8accae.chunk.js.map",
+    "runtime-main.js": "/re-zen/static/js/runtime-main.64223b11.js",
+    "runtime-main.js.map": "/re-zen/static/js/runtime-main.64223b11.js.map",
+    "static/js/2.12e9e2cc.chunk.js": "/re-zen/static/js/2.12e9e2cc.chunk.js",
+    "static/js/2.12e9e2cc.chunk.js.map": "/re-zen/static/js/2.12e9e2cc.chunk.js.map",
+    "static/js/3.348288e8.chunk.js": "/re-zen/static/js/3.348288e8.chunk.js",
+    "static/js/3.348288e8.chunk.js.map": "/re-zen/static/js/3.348288e8.chunk.js.map",
+    "index.html": "/re-zen/index.html",
+    "static/css/main.3ea56572.chunk.css.map": "/re-zen/static/css/main.3ea56572.chunk.css.map",
+    "static/js/2.12e9e2cc.chunk.js.LICENSE.txt": "/re-zen/static/js/2.12e9e2cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.64223b11.js",
+    "static/js/2.12e9e2cc.chunk.js",
+    "static/css/main.3ea56572.chunk.css",
+    "static/js/main.de8accae.chunk.js"
+  ]
+}
